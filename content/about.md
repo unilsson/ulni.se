@@ -1,5 +1,5 @@
 +++
-title = "Om Ulf Nilsson, PhD"
+title = "Om Ulf Nilsson, PhDx"
 +++
 
 ## Om
