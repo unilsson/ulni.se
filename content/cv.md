@@ -24,3 +24,9 @@ Expert mobila system, Telia Company AB
 * "M118 - Calculus for Engineers", Spring term 1999.Department of Applied Mathematics, University of Waterloo
 * Handledning av Masters-studenter vid Department of Applied Mathematics, University of Waterloo, Kanada
 
+## Konferensbidrag
+* Talk given at the APICS-AARMS conference in Mathematics, St Mary's University, October 1998;
+session in General Relativity and Differential Geometry, dedicated to the retirement of B Tupper
+* Talk given at SARS 99: Relativistic Cosmology, A symposium in honour of George Ellis, CapeTown, South Africa, February 1999
+
+
