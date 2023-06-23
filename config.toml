@@ -18,7 +18,7 @@ theme = 'hugo-researcher-master'
   [[menu.main]]
     name = "Kontakt"
     url = "/contact"
-    weight = 3
+    weight = 10
 
 [[params.socialIcons]]
     icon = "fab fa-twitter"
