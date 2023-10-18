@@ -25,6 +25,7 @@ Expert mobila system, Telia Company AB
 * Handledning av Masters-studenter vid Department of Applied Mathematics, University of Waterloo, Kanada
 
 ## Konferensbidrag
+* Talk given at 15th International Conference on General Relativity and Gravitation, Pune, India December 1997
 * Talk given at the APICS-AARMS conference in Mathematics, St Mary's University, October 1998;
 session in General Relativity and Differential Geometry, dedicated to the retirement of B Tupper
 * Talk given at SARS 99: Relativistic Cosmology, A symposium in honour of George Ellis, CapeTown, South Africa, February 1999
