@@ -19,6 +19,24 @@ Utbildning  Naturvetenskaplig linje, examen Juni, 1988 Military Service: 1988-19
     </item>
     
     <item>
+      <title>Fysik</title>
+      <link>http://www.ulni.se/fysik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ulni.se/fysik/</guid>
+      <description>Fysik </description>
+    </item>
+    
+    <item>
+      <title>Hembygdsforskning</title>
+      <link>http://www.ulni.se/hembygd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ulni.se/hembygd/</guid>
+      <description>Hembygdsforskning </description>
+    </item>
+    
+    <item>
       <title>Kontakt</title>
       <link>http://www.ulni.se/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,11 +57,14 @@ Jag har doktorerat i Teoretisk Fysik vid Stockholms Universitet och varit Postdo
     
     <item>
       <title>Publikationslista</title>
-      <link>http://www.ulni.se/publication-list/</link>
+      <link>http://www.ulni.se/publikationslista/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ulni.se/publication-list/</guid>
-      <description>Publikationslista Detta är min akademiska publikationslista från min tid som doktorand på Stockholms Universitet, Sverige och postdoc på University of Waterloo, Kanada.</description>
+      <guid>http://www.ulni.se/publikationslista/</guid>
+      <description>Publikationslista Nilsson U. S. and Uggla C. &amp;ldquo;Spatially self-similar locally rotationally symmetric perfect fluid models&amp;rdquo;, Classical and Quantum Gravity 13, 6 (Jun 1996), 1601
+Nilsson U. S. and Uggla C. &amp;ldquo;Stationary Bianchi type II perfect fluid models&amp;rdquo;, Journal of Mathematical Physics 38, 5 (May 1997), 2611&amp;ndash;2615
+Nilsson U. S. and Uggla C. &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models&amp;rdquo;, Classical and Quantum Gravity 14, 7 (Jul 1997), 1965
+Nilsson U. S. and Uggla C.</description>
     </item>
     
   </channel>
