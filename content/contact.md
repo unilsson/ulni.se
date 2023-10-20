@@ -6,7 +6,7 @@ title = "Kontakt"
 
 * Email (privat): [unilsson@ipfabriken.se](mailto:unilsson@ipfabriken.se)
 * Email (arbete): [ulf.s.nilsson@teliacompany.com](mailto:ulf.s.nilsson@teliacompany.com)
-* Email (Haninge Hembygdsgille): [ulf.nilsson@haningehembygd.se](mailto:ulf.nilsson@haningehembygd.se)
+* Email (Haninge Hembygdsgille, ordförande): [ulf.nilsson@haningehembygd.se](mailto:ulf.nilsson@haningehembygd.se)
 
 
 ## Social Networks
