@@ -12,7 +12,7 @@ title = "Kontakt"
 ## Social Networks
 
 1. [Facebook](https://www.facebook.com/ulfsnilsson)
-2. [X](https://www.x.com/unilsson)
+2. [X.com](https://www.x.com/unilsson)
 
 
 
