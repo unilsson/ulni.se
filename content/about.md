@@ -16,7 +16,7 @@ Mina intressen utanför jobbet är många.
 
 * Träning
 * Film och TV
-* [Böcker](/books)
+* [Böcker](/books) (eller [vad läser jag nu](/readingnow)?)
 * Serier
 * Brädspel
 * Datorspel
