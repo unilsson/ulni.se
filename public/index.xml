@@ -23,6 +23,27 @@
       <description>&lt;p&gt;Detta är första inlägget på nya bloggen. Ser det ok ut?&lt;/p&gt;&#xA;&lt;p&gt;Testat och fungerar: title, date, author.&lt;/p&gt;&#xA;&lt;p&gt;I &amp;ldquo;lastmod&amp;rdquo; måste datumet korrigeras och supportas inte för tillfället.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>CV</title>
+      <link>http://localhost:1313/page/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/cv/</guid>
+      <description>&lt;h1 id=&#34;personlig-data&#34;&gt;Personlig data&lt;/h1&gt;&#xA;&lt;p&gt;Ulf Sune Nilsson&lt;br&gt;&#xA;Född i Stockholm, 1969&lt;br&gt;&#xA;E-post: &lt;a href=&#34;mailto:unilsson@ipfabriken.se&#34;&gt;unilsson@ipfabriken.se&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;nuvarande-position&#34;&gt;Nuvarande position&lt;/h1&gt;&#xA;&lt;p&gt;Expert mobila system, Telia Company AB&lt;/p&gt;&#xA;&lt;h1 id=&#34;utbildning&#34;&gt;Utbildning&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Naturvetenskaplig linje, examen Juni, 1988&lt;/li&gt;&#xA;&lt;li&gt;Military Service: 1988-1989&lt;/li&gt;&#xA;&lt;li&gt;Filosofie Kandidat i Fysik, Stockholms Universitet, Sverige, Oktober 1, 1993. Avhandlingens titel: &amp;ldquo;Ljusutbredning i en modell för ett inhomogent universum&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Filosofie Licentiat i Teoretisk Fysik, Stockholms Universitet, Sverige, Maj 31, 1996.Avhandlingens titel: &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models &amp;ndash; a unified treatment&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Filosofie Doktor i Teoretisk Fysik, Stockholms Universitet, Sverige, Juni 3, 1998. Avhandlingens titel: &amp;ldquo;Dynamical systems in cosmology and astrophysics&amp;rdquo; (ISBN 91-7153-789-9)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;undervisningserfarenhet&#34;&gt;Undervisningserfarenhet&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Mätvärdesbehandling och Datoranvändning&amp;rdquo;, 1996-1998. Fysikum, Stockholms Universitet, Sverige&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;M118 - Calculus for Engineers&amp;rdquo;, Spring term 1999.Department of Applied Mathematics, University of Waterloo&lt;/li&gt;&#xA;&lt;li&gt;Handledning av Masters-studenter vid Department of Applied Mathematics, University of Waterloo, Kanada&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;konferensbidrag&#34;&gt;Konferensbidrag&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Talk given at 15th International Conference on General Relativity and Gravitation, Pune, India December 1997&lt;/li&gt;&#xA;&lt;li&gt;Talk given at the APICS-AARMS conference in Mathematics, St Mary&amp;rsquo;s University, October 1998;&#xA;session in General Relativity and Differential Geometry, dedicated to the retirement of B Tupper&lt;/li&gt;&#xA;&lt;li&gt;Talk given at SARS 99: Relativistic Cosmology, A symposium in honour of George Ellis, CapeTown, South Africa, February 1999&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kontaktinformation</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email (privat): &lt;a href=&#34;mailto:unilsson@ipfabriken.se&#34;&gt;unilsson@ipfabriken.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email (arbete): &lt;a href=&#34;mailto:ulf.s.nilsson@teliacompany.com&#34;&gt;ulf.s.nilsson@teliacompany.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email (Haninge Hembygdsgille, ordförande): &lt;a href=&#34;mailto:ulf.nilsson@haningehembygd.se&#34;&gt;ulf.nilsson@haningehembygd.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;social-networks&#34;&gt;Social Networks&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/ulfsnilsson&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.x.com/unilsson&#34;&gt;X.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Publikationslista</title>
+      <link>http://localhost:1313/page/publikationslista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/publikationslista/</guid>
+      <description>&lt;h1 id=&#34;publikationslista&#34;&gt;Publikationslista&lt;/h1&gt;&#xA;&lt;p&gt;Nilsson U. S. and Uggla C. &amp;ldquo;Spatially self-similar locally rotationally symmetric perfect fluid model&#xA;s&amp;rdquo;, &lt;em&gt;Classical and Quantum Gravity&lt;/em&gt; 13, 6 (Jun 1996), 1601&lt;/p&gt;&#xA;&lt;p&gt;Nilsson U. S. and Uggla C. &amp;ldquo;Stationary Bianchi type II perfect fluid models&amp;rdquo;, &lt;em&gt;Journal of Mathematica&#xA;l Physics&lt;/em&gt; 38, 5 (May 1997), 2611&amp;ndash;2615&lt;/p&gt;&#xA;&lt;p&gt;Nilsson U. S. and Uggla C. &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models&amp;rdquo;, &lt;em&gt;Classica&#xA;l and Quantum Gravity&lt;/em&gt; 14, 7 (Jul 1997), 1965&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ulf Nilsson</title>
       <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

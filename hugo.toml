@@ -9,6 +9,11 @@ subtitle='PhD'
 logo='img/avatar-icon.png'
 favicon = 'img/favicon.ico'
 
+# The following line is needed to only show posts on the blog
+# and if not used, pages will be included as well
+# Ulf Nilsson, 2025-06-04
+mainSections = ["post"]
+
 [[menu.main]]
     name = "Blog"
     url = ""

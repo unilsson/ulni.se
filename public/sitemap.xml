@@ -16,7 +16,13 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/page/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/publikationslista/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
