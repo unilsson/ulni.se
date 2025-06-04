@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.ulni.se/'
+languageCode = 'sv-SE'
+title = 'ulni.se'
+theme="beautifulhugo"
+
+[Params]
+homeTitle='Ulf Nilsson'
+subtitle='PhD'
+logo='img/avatar-icon.png'
+favicon = 'img/favicon.ico'
