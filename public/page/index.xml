@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ulni.se</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on ulni.se</description>
+    <generator>Hugo</generator>
+    <language>sv-SE</language>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ulf Nilsson</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt och&#xA;utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på &lt;a href=&#34;https://www.teliacompany.com&#34;&gt;Telia&lt;/a&gt; arbetat med standardisering inom &lt;a href=&#34;https://www.3gpp.org&#34;&gt;3GPP&lt;/a&gt;, &lt;a href=&#34;https://www.etsi.org&#34;&gt;ETSI&lt;/a&gt;, &lt;a href=&#34;https://www.ietf.org&#34;&gt;IETF&lt;/a&gt; och &lt;a href=&#34;https://ngmn.org&#34;&gt;NGMN&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Jag har doktorerat i Teoretisk Fysik vid &lt;a href=&#34;https://www.su.se/fysikum&#34;&gt;Stockholms Universitet&lt;/a&gt; och varit Postdoc på &lt;a href=&#34;https://uwaterloo.ca/applied-mathematics&#34;&gt;Department of Applied Mathematics, University of Waterloo&lt;/a&gt; i Ontario, Kanada. Mina forskningsområden var allmän relativitetsteori, kosmologi, stjärnmodeller, självsimilära system, strängteori och lågtemperaturfysik.&lt;/p&gt;&#xA;&lt;p&gt;Jag är ordförande i &lt;a href=&#34;https://www.hembygd.se/haninge-hembygdsgille&#34;&gt;Haninge Hembygdsgille&lt;/a&gt;, en av hembygdsföreningarna i Haninge kommun. Inom Gillet pågår forskning inom den lokala hembygdshistorien som sedan dokukmenteras och presenteras på olika sätt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

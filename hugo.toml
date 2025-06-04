@@ -8,3 +8,13 @@ homeTitle='Ulf Nilsson'
 subtitle='PhD'
 logo='img/avatar-icon.png'
 favicon = 'img/favicon.ico'
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 3
+
+[[menu.main]]
+    name = "Om"
+    url = "page/about/"
+    weight = 1
